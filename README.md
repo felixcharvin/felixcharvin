@@ -4,9 +4,9 @@
 
 J’aide les professionnels du bâtiment à automatiser leurs tâches et à relier leurs **maquettes, leurs données et leurs outils de chantier**.
 
-Je développe des **plugins Revit et Navisworks**, des **applications Windows** et des **outils web sur mesure**, en partant des méthodes de travail des équipes.
+Je développe des **plugins Revit et Navisworks**, des **applications métier sur mesure pour le web, le mobile et Windows**, en partant des méthodes de travail des équipes.
 
-[Discuter d’un projet sur Malt](https://www.malt.fr/profile/felixcharvin) · [Me retrouver sur LinkedIn](https://www.linkedin.com/in/f%C3%A9lixcharvin/)
+[Découvrir mon site](https://lecate.fr/) · [Me retrouver sur LinkedIn](https://www.linkedin.com/in/f%C3%A9lixcharvin/)
 
 ---
 
@@ -16,7 +16,7 @@ Je développe des **plugins Revit et Navisworks**, des **applications Windows** 
 | :--- | :--- |
 | Automatiser les tâches dans Revit ou Navisworks | Plugins métier, traitement des paramètres, génération de vues, contrôles et exports |
 | Fiabiliser les données de maquette | Extraction, vérification, métrés et échanges avec Excel |
-| Relier le BIM aux usages du terrain | Applications Windows, outils de suivi de chantier et synchronisation des données |
+| Relier le BIM aux usages du terrain | Applications web, mobiles et Windows, suivi de chantier et synchronisation des données |
 | Connecter vos outils | Applications web, API et intégration aux systèmes existants |
 | Faire évoluer un logiciel existant | Diagnostic, reprise de code, compatibilité des versions et maintenance |
 
@@ -44,4 +44,4 @@ Mes développements clients sont confidentiels et ne sont pas publiés ici. Ce p
 
 Une tâche répétitive dans Revit, des données à fiabiliser ou des outils à connecter ? Décrivez-moi votre fonctionnement actuel et le résultat recherché.
 
-**[Me contacter sur Malt](https://www.malt.fr/profile/felixcharvin)** · **[Échanger sur LinkedIn](https://www.linkedin.com/in/f%C3%A9lixcharvin/)**
+**[Me contacter via mon site](https://lecate.fr/)** · **[Échanger sur LinkedIn](https://www.linkedin.com/in/f%C3%A9lixcharvin/)**
