@@ -36,7 +36,7 @@ Je développe des **plugins Revit et Navisworks**, des **applications métier su
 
 Ingénieur diplômé de l’**ENSIIE**, avec un master à l’**UQAC**.
 
-Mes développements clients sont confidentiels et ne sont pas publiés ici. Ce profil présente mes domaines d’intervention.
+Mes projets clients sont développés et maintenus dans des dépôts privés, en dehors de GitHub.com. Ce profil présente mes compétences et mes domaines d’intervention, dans le respect de leur confidentialité.
 
 ---
 
